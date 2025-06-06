@@ -1,0 +1,9 @@
+﻿  Bank-Project-1.cpp
+C:\Users\42052\source\repos\Bank-Project-1\Bank-Project-1.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\42052\source\repos\Bank-Project-1\MyString.h(12,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\42052\source\repos\Bank-Project-1\MyString.h(17,16): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\42052\source\repos\Bank-Project-1\MyString.h(42,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\42052\source\repos\Bank-Project-1\Bank-Project-1.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\42052\source\repos\Bank-Project-1\ClientMethods.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\42052\source\repos\Bank-Project-1\ClientMethods.h(301,1): warning C4715: 'cl::DeleteClientWithAccNumber': not all control paths return a value
+  Bank-Project-1.vcxproj -> C:\Users\42052\source\repos\Bank-Project-1\x64\Debug\Bank-Project-1.exe
